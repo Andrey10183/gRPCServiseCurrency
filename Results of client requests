@@ -1,0 +1,25 @@
+Balance
+boris,0
+maria,0
+oleg,0
+
+Coin emmision - 10 coin
+Emission compleeted
+
+Balance
+boris,6
+maria,2
+oleg,2
+
+Coin transaction boris->maria - 5 coin
+Transaction compleeted
+
+Balance
+boris,1
+maria,7
+oleg,2
+
+Requesting longest history coin
+id = 2, history = emission-boris-maria
+
+You can run server and client and veryfy above output
